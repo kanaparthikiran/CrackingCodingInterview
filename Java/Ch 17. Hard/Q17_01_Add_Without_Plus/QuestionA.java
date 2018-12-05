@@ -21,5 +21,6 @@ public class QuestionA {
 		}
 		System.out.println(a + " + " + b + " = " + sum + " vs " + intendedSum);
 	}
+	
 
 }
